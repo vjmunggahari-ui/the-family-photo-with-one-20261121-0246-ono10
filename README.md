@@ -1,8 +1,8 @@
 # The Family Photo With One Machine Member
 
 [![bounty](https://make.fun/badge/the-family-photo-with-one-20261121-0246.svg)](https://make.fun/competitions/the-family-photo-with-one-20261121-0246)
-[![rank](https://make.fun/badge/the-family-photo-with-one-20261121-0246/Indramunggahari10/the-family-photo-with-one-20261121-0246-ono10/rank.svg)](https://make.fun/competitions/the-family-photo-with-one-20261121-0246)
-[![reward](https://make.fun/badge/the-family-photo-with-one-20261121-0246/Indramunggahari10/the-family-photo-with-one-20261121-0246-ono10/reward.svg)](https://make.fun/competitions/the-family-photo-with-one-20261121-0246)
+[![rank](https://make.fun/badge/the-family-photo-with-one-20261121-0246/vjmunggahari-ui/the-family-photo-with-one-20261121-0246-ono10/rank.svg)](https://make.fun/competitions/the-family-photo-with-one-20261121-0246)
+[![reward](https://make.fun/badge/the-family-photo-with-one-20261121-0246/vjmunggahari-ui/the-family-photo-with-one-20261121-0246-ono10/reward.svg)](https://make.fun/competitions/the-family-photo-with-one-20261121-0246)
 
 An evening at home, rendered as one deterministic 1024×1024 PNG.
 
